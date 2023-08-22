@@ -1,3 +1,3 @@
-@echo off
+@echo oj
 title Müzik Botu
-node .
++ node .

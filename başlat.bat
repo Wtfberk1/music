@@ -1,3 +1,3 @@
-@echo off
-title Müzik Botu
-node .
+@echo on
+title LOO.CODE M..
++ node .
